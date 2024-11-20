@@ -70,7 +70,7 @@ _In your project's working environment, install the libraries from below
 _
 
 # Assign your global variables (url, client, and client_twilio)
-
+```
 - You're your own client! 
 
 - 1. Copy the page of your grocery store's deals and save that to a variable **"url"**
@@ -91,7 +91,7 @@ Twilio: https://console.twilio.com/?frameUrl=/console
     - via a user defined function 
  5. create a chat gpt bot
 
-```
+
 
 # Libraries
 from selenium import webdriver
